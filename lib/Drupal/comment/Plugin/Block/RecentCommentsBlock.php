@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\comment\Plugin\block\block\RecentCommentsBlock.
+ * Contains \Drupal\comment\Plugin\Block\RecentCommentsBlock.
  */
 
-namespace Drupal\comment\Plugin\block\block;
+namespace Drupal\comment\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;
